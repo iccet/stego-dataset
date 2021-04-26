@@ -36,3 +36,8 @@ cmake-build*
 .idea
 
 venv
+
+cmake-build-*
+
+*[Gg]enerated*
+*[Gg]en*
